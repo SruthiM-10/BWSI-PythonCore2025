@@ -1,1 +1,1 @@
-# BWSI-PythonCore2025
+# BWSI 2025
